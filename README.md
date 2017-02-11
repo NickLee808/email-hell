@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###Email Hell
 
 We just found out that there is a bug in production that our e-mail function was iterating errantly and sending duplicate e-mails to many users. We need to fix this quickly but we don't want to send out a mass apology letter to all of our users.
@@ -16,3 +17,6 @@ We're not sure when we'll get out a hotfix for the errant code so this may happe
 
 Thaaaaanks :D
 0Looking
+=======
+# bubble-sort
+>>>>>>> a2b1bcec99a2ecec30011f354c3662080cdfbcdf
