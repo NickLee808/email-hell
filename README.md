@@ -15,4 +15,3 @@ Implement a module pattern that takes in the data below from our logs that has a
 We're not sure when we'll get out a hotfix for the errant code so this may happen again. Can you write this in a way that we can do this on our own so we don't have to bother you every time this happens? 
 
 Thaaaaanks :D
-0Looking
